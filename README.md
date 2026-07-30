@@ -11,7 +11,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harijadhavai)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onxx12)
 
 
 <p align="center">
@@ -309,7 +309,7 @@ copies or substantial portions of the Software.
 </p>
 
 <p align="center">
-  <a href="https://github.com/onxx-x143">🌐 GitHub</a> • 
+  <a href="https://github.com/onxx-x146">🌐 GitHub</a> • 
   <a href="https://openrouter.ai/">⚡ OpenRouter</a> • 
   <a href="https://termux.dev/">📱 Termux</a>
 </p>

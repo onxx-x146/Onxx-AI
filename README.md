@@ -4,8 +4,8 @@
        *BY HARI JADHAV HAI 🚀*
 ## *Onxx-AI Android APP👇🏻install* ✨
 <p>
-  <a href="https://www.mediafire.com/file/txuwurrmka5umbu/Onxx-AI.apk/file">
-    <img src="https://img.shields.io/badge/Download-FF0000?style=flat-square&logo=android&logoColor=white" alt="Download APK">
+  <a href="https://www.mediafire.com/file/xx27tu3dngxcfvo/Onxx-AI.apk/file">
+    <img src="https://img.shields.io/badge/Download-FF00000?style=flat-square&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p>
 

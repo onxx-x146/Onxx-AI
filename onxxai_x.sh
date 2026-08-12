@@ -11,7 +11,7 @@ OPENROUTER_API_KEY="sk_API_Key"
 OPENROUTER_MODEL="inclusionai/ling-3.0-flash:free"
 
 # GitHub Redirect URL
-GITHUB_URL="https://github.com/onxx-x143"
+GITHUB_URL="https://github.com/onxx-x146"
 
 # Colors
 RED='\033[0;31m'
@@ -43,9 +43,9 @@ show_banner() {
     echo -e "${MAGENTA}${BOLD}              ║      ${CYAN}T E R M I N A L   A I${MAGENTA}         ║${NC}"
     echo -e "${MAGENTA}${BOLD}              ╚═══════════════════════════════════════╝${NC}"
     echo ""
-    echo -e "${YELLOW}              ✦ Created by: ${BOLD}Hari Jadhav${NC}${YELLOW} ✦${NC}"
-    echo -e "${GREEN}              ✦ GitHub: ${BOLD}github.com/onxx-x143${NC}${GREEN} ✦${NC}"
-    echo -e "${CYAN}              ✦ Powered by: ${BOLD}_insrnx_ ${NC}${CYAN} ✦${NC}"
+    echo -e "${YELLOW}              ✦ Created by: ${BOLD}ONXX${NC}${YELLOW} ✦${NC}"
+    echo -e "${GREEN}              ✦ GitHub: ${BOLD}github.com/onxx-x146${NC}${GREEN} ✦${NC}"
+    echo -e "${CYAN}              ✦ Instagram by: ${BOLD}__.l2l__ ${NC}${CYAN} ✦${NC}"
     echo ""
     echo -e "${ORANGE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
     echo ""
